@@ -2,7 +2,9 @@
 
 While building an NES emulator, mappers can be one of the trickiest components to wrap your head around. So listed below is information about common mappers used in NES emulation. Please note that these archives do not contain everything there is to know about mappers, however, we hope that this gives you a proper foundation to continue your research. 
 
-### Markdown
+### Mappers
+
+---
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
