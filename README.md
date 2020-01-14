@@ -9,16 +9,6 @@ While building an NES emulator, mappers can be one of the trickiest components t
 <ul>
   <li>Mapper 0</li>
   <li>Mapper 1</li>
-  <li>Mapper 2</li>
-  <li>Mapper 2</li>
-  <li>Mapper 2</li>
-  <li>Mapper 2</li>
-  <li>Mapper 2</li>
-  <li>Mapper 2</li>
-  <li>Mapper 2</li>
-  <li>Mapper 2</li>
-  <li>Mapper 2</li>
-  <li>Mapper 2</li>
 </ul>
 </div>
 
