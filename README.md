@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to NES-Mappers
 
 You can use the [editor on GitHub](https://github.com/Brad1141/NES-Mappers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
