@@ -1,8 +1,6 @@
 ## Welcome to NES-Mappers
 
-You can use the [editor on GitHub](https://github.com/Brad1141/NES-Mappers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+While building an NES emulator, mappers can be one of the trickiest components to wrap your head around. So listed below is information about common mappers used in NES emulation. Please note that these archives do not contain everything there is to know about mappers however we hope that this gives you a proper foundation to continue your research. 
 
 ### Markdown
 
